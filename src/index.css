@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* body{
+  width: 1450px;
+  margin: 0 auto;
+} */
