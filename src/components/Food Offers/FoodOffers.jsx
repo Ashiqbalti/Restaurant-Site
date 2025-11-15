@@ -1,8 +1,8 @@
 import React from "react";
-import biryani from "../../../public/assets/biryani.png";
-import karahi from "../../../public/assets/karahi.png";
-import chinese from "../../../public/assets/chinese.png";
-import drinks from "../../../public/assets/drinks.png";
+// import biryani from "../../../public/assets/biryani.png";
+// import karahi from "../../../public/assets/karahi.png";
+// import chinese from "../../../public/assets/chinese.png";
+// import drinks from "../../../public/assets/drinks.png";
 
 const FoodPoster = () => {
   return (
@@ -13,7 +13,7 @@ const FoodPoster = () => {
         {/* ====== Card 1: Biryani ====== */}
         <div className="relative bg-[#000000] h-[300px] overflow-hidden flex items-center justify-start">
           <img
-            src={biryani}
+            // src={biryani}
             alt="Biryani"
             className="absolute inset-0 w-full h-full object-cover"
           />
@@ -34,7 +34,7 @@ const FoodPoster = () => {
         {/* ====== Card 2: Karahi ====== */}
         <div className="relative bg-[#8B0000] h-[300px] overflow-hidden flex items-center justify-start">
           <img
-            src={karahi}
+            // src={karahi}
             alt="Karahi"
             className="absolute inset-0 w-full h-full object-cover"
           />
@@ -50,7 +50,7 @@ const FoodPoster = () => {
         {/* ====== Card 3: Chinese ====== */}
         <div className="relative bg-[#c27000] h-[300px] overflow-hidden flex items-center justify-start">
           <img
-            src={chinese}
+            // src={chinese}
             alt="Chinese Food"
             className="absolute inset-0 w-full h-full object-cover"
           />
@@ -68,7 +68,7 @@ const FoodPoster = () => {
         {/* ====== Card 4: Drinks ====== */}
         <div className="relative bg-[#ff7b00] h-[300px] overflow-hidden flex items-center justify-start">
           <img
-            src={drinks}
+            // src={drinks}
             alt="Drinks"
             className="absolute inset-0 w-full h-full object-cover"
           />

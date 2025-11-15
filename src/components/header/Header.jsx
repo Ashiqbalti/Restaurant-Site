@@ -1,7 +1,5 @@
 import React from "react";
 import { Link } from "react-router";
-import hero from "../../assets/images/hero-food.png";
-import discount from "../../assets/images/discount.png";
 
 const Header = () => {
   return (
