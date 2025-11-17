@@ -1,7 +1,6 @@
 import React, { useState,useEffect } from "react";
 // import FoodCards from "./FoodCards";
 import FoodCards from '../components/FoodCards/FoodCards'
-import FoodOffers from '../components/Food Offers/FoodOffers'
 import BiryaniSection from '../components/Food Items/BiryaniSection'
 import KarahiSection from '../components/Food Items/KarahiSection'
 import BBQSection from '../components/Food Items/BBQSection'

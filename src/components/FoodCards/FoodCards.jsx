@@ -75,17 +75,6 @@ const FoodCards = ({ setSelectedCategory }) => {
       bg: "bg-gradient-to-br from-sky-600 to-blue-900",
     },
   ];
-
-  // const scrollToSection = (id) => {
-  //   const section = document.getElementById(id);
-  //   if (section) {
-  //     const yOffset = -80; // adjust if you have a fixed navbar
-  //     const y =
-  //       section.getBoundingClientRect().top + window.pageYOffset + yOffset;
-  //     window.scrollTo({ top: y, behavior: "smooth" });
-  //   }
-  // };
-
   return (
    <div
   className="relative w-full py-10 px-6 bg-gray-100"

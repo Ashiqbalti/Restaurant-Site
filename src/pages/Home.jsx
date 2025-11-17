@@ -1,5 +1,4 @@
 import React from 'react'
-import Header from '../components/header/Header'
 // import FoodCards from '../components/FoodCards/FoodCards'
 // import FoodOffers from '../components/Food Offers/FoodOffers'
 import MenuPage from './MenuPage'
